@@ -67,11 +67,11 @@ npm run dev
 
 ## Screenshots
 
-![](/screenshots/1.png)
+![](/DataChain/screenshots/1.png)
 
-![](/screenshots/2.png)
+![](/DataChain/screenshots/2.png)
 
-![](/screenshots/3.png)
+![](/DataChain/screenshots/3.png)
 
 
 
@@ -86,7 +86,7 @@ npm run dev
 
 ## Authors
 
-* **Venakta Raghava Kurada** - *Initial work* - [K.V.Raghava](https://github.com/R9512)
+* **Venakta Raghava Kurada**  - [K.V.Raghava](https://github.com/R9512)
 
 ## Acknowledgments
 
