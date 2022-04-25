@@ -90,7 +90,7 @@ npm run dev
 
 ## Acknowledgments
 
-* Shri. Dr. Pallav K Baruah
+* Shri. Dr. Pallav Kumar Baruah
 * Rajarshi V
 
 
